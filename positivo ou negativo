@@ -1,0 +1,8 @@
+void main() {
+double n = -9;
+if (n >= 0) {
+  print ("positivo"); 
+} else{
+  print ("negativo");
+}
+  }

@@ -1,0 +1,17 @@
+ void main() {
+  int num1 = 2;
+  int num2 = 7;
+int num3 = 8;
+double media = ((num1+num2+num3)/3); 
+double situacao = 6; 
+  print (media);
+  if (media >= situacao) {
+    print("Aprovado");
+
+    }
+   else {
+      print("reprovado");
+  }
+  
+  }
+

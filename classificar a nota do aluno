@@ -6,12 +6,8 @@ double media = ((num1+num2+num3)/3);
 double situacao = 6; 
   print (media);
   if (media >= situacao) {
-    print("Aprovado");
-
-    }
+    print("Aprovado"); }
    else {
-      print("reprovado");
-  }
+      print("reprovado");}
   
-  }
-
+}

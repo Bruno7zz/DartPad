@@ -1,0 +1,7 @@
+void main() {
+ int valor = 150;
+ double des = 0.10;
+ double desconto = valor*des;
+ print (valor);
+ print (desconto);
+}
